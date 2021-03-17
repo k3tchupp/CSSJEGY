@@ -1,0 +1,32 @@
+body{
+    background-color: #E0E0E0;
+}
+
+img{
+    background-color: rgb(166, 199, 233);
+    background-repeat: repeat-x;
+}
+
+table{
+    width: 650px;
+    border: none;
+    background-color: #5C6B7B;
+    text-align: center;
+}
+
+#masodik{
+    width: 600px;
+    background-color: white;
+}
+
+#vilkek{
+    background-color: #CDDBEB;
+    height: 35px;
+}
+strong{
+    font-size: larger;
+}
+
+#ball{
+    text-align: left;
+}
