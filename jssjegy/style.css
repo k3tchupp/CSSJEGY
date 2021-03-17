@@ -30,3 +30,15 @@ strong{
 #ball{
     text-align: left;
 }
+
+#small{
+    font-size: smaller;
+}
+
+#vanner{
+    float: right;
+}
+
+#memex{
+    text-align: center;
+}
